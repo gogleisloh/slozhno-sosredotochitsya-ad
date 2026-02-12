@@ -1,4 +1,4 @@
-https://github.com/gogleisloh/slozhno-sosredotochitsya
+https://github.com/gogleisloh/slozhno-sosredotochitsya-ad
 # Яндекс Практикум, проектная работа "Сложно сосредоточиться"
 
 ## Оглавление
