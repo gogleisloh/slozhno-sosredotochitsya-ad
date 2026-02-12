@@ -3,19 +3,12 @@ https://github.com/gogleisloh/slozhno-sosredotochitsya
 
 ## Оглавление
 
-- [Запуск](#запуск)
+
 - [Описание](#описание)
 - [Автор](#автор)
 - [Благодарность](#благодарность)
 
-### Запуск
 
-```
-git pull https://github.com/MikeBeloborodov/slozhno-sosredotochitsya.git
-cd slozhno-sosredotochitsya
-npm install
-npm run dev
-```
 
 
 ### Описание
